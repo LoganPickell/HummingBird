@@ -6,4 +6,6 @@ I followed a unity tutorial to create an ML hummingbird agent to collect nectar 
 
 This agent learned to stay within the boundaries, how to navigate, and efficient techniques to collect the sweet sweet nectar.
 
+
+Link to presentation explaining the project (unfortunately the video is not playing through google docs):
 https://docs.google.com/presentation/d/1Ub0nP6tiqdUmjviMy4OmZn0A854ckg8q/edit#slide=id.p2
